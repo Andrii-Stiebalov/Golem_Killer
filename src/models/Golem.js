@@ -1,0 +1,32 @@
+export const urlToGolemFramesIdle = [
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_000.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_001.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_002.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_003.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_004.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_005.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_006.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_007.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_008.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_009.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_010.png',
+  '/assets/img/golem/golemIdle/Golem_01_Idle Blinking_011.png',
+];
+
+export const urlToGolemFramesDied = [
+  '/assets/img/golem/GolemDying/Golem_01_Dying_000.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_001.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_002.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_003.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_004.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_005.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_006.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_007.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_008.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_009.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_010.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_011.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_012.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_013.png',
+  '/assets/img/golem/GolemDying/Golem_01_Dying_014.png',
+];

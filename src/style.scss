@@ -1,0 +1,81 @@
+@font-face {
+  font-family: BreatheFireIii;
+  src: url('./assets/BreatheFireIii-PKLOB.ttf');
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.counter {
+  position: absolute;
+  width: 150px;
+  height: 70px;
+  left: 0;
+  right: 0;
+
+  justify-content: center;
+  align-items: center;
+
+  font-family: BreatheFireIii;
+  color: #FFF;
+  display: flex;
+  font-size: 50px;
+
+  background-color: brown;
+  border: 6px solid #000;
+  border-radius: 15px;
+
+  margin: 10px auto 0;
+}
+
+.startMessage {
+  background: linear-gradient(#e66465, #9198e5);
+  position: absolute;
+  opacity: 0.6;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.title {
+  font-size: 100px;
+  font-family: BreatheFireIii;
+  z-index: 12;
+  color: gold;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.5s, transform 1s;
+}
+
+.startButton {
+  display: block;
+  z-index: 15;
+  height: fit-content;
+  background-color: brown;
+  color: gold;
+  font-size: 40px;
+  padding: 5px 15px;
+  border-radius: 15px;
+  border: none;
+  font-family: BreatheFireIii;
+  cursor: pointer;
+
+  &:active {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  }
+}
+
